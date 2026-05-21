@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  PROJECT_ID: your-gcp-project-id
+  PROJECT_ID: gcp-01082000-demo
   GAR_LOCATION: asia-south1
   REPOSITORY: cloudrun-demo-repo
   SERVICE: gcp-cicd-demo
